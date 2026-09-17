@@ -5,7 +5,7 @@
 Material de clases de **Operaciones de Aprendizaje Automático II** — CEIA · FIUBA.
 Docente: Jaime A. Riascos-Salas.
 
-> El material se publica **semana a semana**. Cada carpeta `claseN/` se completa al llegar a esa sesión. Hoy están disponibles la **Sesión 1** y la **Sesión 2**.
+> El material se publica **semana a semana**. Cada carpeta `claseN/` se completa al llegar a esa sesión. Hoy están disponibles las **Sesiones 1 a 4**.
 
 Criterios de aprobación: ver [CriteriosAprobacion.md](CriteriosAprobacion.md).
 
@@ -38,8 +38,8 @@ Las **guías del docente** (notas del orador y guía de la práctica) viven fuer
 |---|---|---|---|
 | 1 | Del modelo al servicio: APIs REST productivas | [clase1](clase1/README.md) | ✅ Disponible |
 | 2 | GraphQL en MLOps + grafos de linaje | [clase2](clase2/README.md) | ✅ Disponible |
-| 3 | gRPC para microservicios de ML | clase3 | 🔒 Próximamente |
-| 4 | Streaming e inferencia en tiempo real · Hito TP #1 | clase4 | 🔒 Próximamente |
+| 3 | gRPC para microservicios de ML | [clase3](clase3/README.md) | ✅ Disponible |
+| 4 | Streaming e inferencia en tiempo real · Hito TP #1 | [clase4](clase4/README.md) | ✅ Disponible |
 | 5 | Nube y Data Lakes para MLOps | clase5 | 🔒 Próximamente |
 | 6 | Aprendizaje Federado · Hito TP #2 | clase6 | 🔒 Próximamente |
 | 7 | Seguridad, operación y gobernanza | clase7 | 🔒 Próximamente |
