@@ -22,6 +22,8 @@ Todo el bimestre construye la **plataforma de predicción en tiempo real de "ML 
 - **Mini-TP por clase (Sesiones 1–7):** actividad corta, individual y evaluable sobre el modelo propio.
 - **TP integrador grupal (2–6)** con hitos: arquitectura en la **Sesión 4**, checkpoint evaluado en la **Sesión 6**, defensa en la **Sesión 8**. Niveles: local (6–8) y contenedores (8–10).
 
+Ver [PROYECTOS_ANTERIORES.md](PROYECTOS_ANTERIORES.md) para tener algunas ideas de lo presentado en bimestres anteriores.
+
 ### Organización
 
 ```
