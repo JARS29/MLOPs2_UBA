@@ -42,8 +42,8 @@ Las **guías del docente** (notas del orador y guía de la práctica) viven fuer
 | 2 | GraphQL en MLOps + grafos de linaje | [clase2](clase2/README.md) | ✅ Disponible |
 | 3 | gRPC para microservicios de ML | [clase3](clase3/README.md) | ✅ Disponible |
 | 4 | Streaming e inferencia en tiempo real · Hito TP #1 | [clase4](clase4/README.md) | ✅ Disponible |
-| 5 | Nube y Data Lakes para MLOps | clase5 | 🔒 Próximamente |
-| 6 | Aprendizaje Federado · Hito TP #2 | clase6 | 🔒 Próximamente |
+| 5 | Aprendizaje Federado | [clase5](clase5/README.md) | ✅ Disponible |
+| 6 | Nube y Data Lakes para MLOps · Hito TP #2 | clase6 | 🔒 Próximamente |
 | 7 | Seguridad, operación y gobernanza | clase7 | 🔒 Próximamente |
 | 8 | Taller integrador y defensa | clase8 | 🔒 Próximamente |
 
