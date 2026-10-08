@@ -16,7 +16,7 @@
 - **Operación** (observabilidad, *drift*, SLAs, alertas) y **gobernanza** (model cards, auditoría, cumplimiento, ética/XAI); **introducción a CI/CD para ML**.
 
 La teoría viene como **notebook-tutorial ejecutable**: `Teoria/seguridad_tutorial.ipynb`.
-Presentación: `Sesion7_Seguridad_2026.pptx` (fuera del repo, junto a los pptx).
+Presentación: `Sesion7_Seguridad_2026.pdf` 
 
 ## Parte práctica — cómo correr
 
