@@ -5,13 +5,13 @@
 Material de clases de **Operaciones de Aprendizaje Automático II** — CEIA · FIUBA.
 Docente: Jaime A. Riascos-Salas.
 
-> El material se publica **semana a semana**. Cada carpeta `claseN/` se completa al llegar a esa sesión. Hoy están disponibles las **Sesiones 1 a 4**.
+> El material se publica **semana a semana**. Cada carpeta `claseN/` se completa al llegar a esa sesión. Hoy están disponibles las **Sesiones 1 a 7**.
 
 Criterios de aprobación: ver [CriteriosAprobacion.md](CriteriosAprobacion.md).
 
 ### Objetivo
 
-MLOps II es la continuación de [Operaciones de Aprendizaje Automático I](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/aprendizaje_maquina_II). Se centra en **cómo se comunica y opera un modelo en producción**: flujo de datos, protocolos (REST, GraphQL, gRPC), streaming, nube y Data Lakes, aprendizaje federado, y seguridad/operación/gobernanza. Son **8 encuentros de ~3 horas**.
+MLOps II es la continuación de [Operaciones de Aprendizaje Automático I](https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/aprendizaje_maquina_II). Se centra en **cómo se comunica y opera un modelo en producción**: flujo de datos, protocolos (REST, GraphQL, gRPC), streaming, aprendizaje federado, nube y Data Lakes, y seguridad/operación/gobernanza. Son **8 encuentros de ~3 horas**.
 
 ### Hilo conductor
 
@@ -21,8 +21,6 @@ Todo el bimestre construye la **plataforma de predicción en tiempo real de "ML 
 
 - **Mini-TP por clase (Sesiones 1–7):** actividad corta, individual y evaluable sobre el modelo propio.
 - **TP integrador grupal (2–6)** con hitos: arquitectura en la **Sesión 4**, checkpoint evaluado en la **Sesión 6**, defensa en la **Sesión 8**. Niveles: local (6–8) y contenedores (8–10).
-
-Ver [PROYECTOS_ANTERIORES.md](PROYECTOS_ANTERIORES.md) para tener algunas ideas de lo presentado en bimestres anteriores.
 
 ### Organización
 
@@ -43,8 +41,8 @@ Las **guías del docente** (notas del orador y guía de la práctica) viven fuer
 | 3 | gRPC para microservicios de ML | [clase3](clase3/README.md) | ✅ Disponible |
 | 4 | Streaming e inferencia en tiempo real · Hito TP #1 | [clase4](clase4/README.md) | ✅ Disponible |
 | 5 | Aprendizaje Federado | [clase5](clase5/README.md) | ✅ Disponible |
-| 6 | Nube y Data Lakes para MLOps · Hito TP #2 | [clase6](clase6/README.md)  | ✅ Disponible |
-| 7 | Seguridad, operación y gobernanza | clase7 | 🔒 Próximamente |
+| 6 | Nube y Data Lakes para MLOps · Hito TP #2 | [clase6](clase6/README.md) | ✅ Disponible |
+| 7 | Seguridad en IA: operación y gobernanza (SAIF) | [clase7](clase7/README.md) | ✅ Disponible |
 | 8 | Taller integrador y defensa | clase8 | 🔒 Próximamente |
 
 ### Requerimientos
